@@ -6,7 +6,7 @@ namespace CircleTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Dylan!");
+            Console.WriteLine("Hello Dylan!")
         }
     }
 }
